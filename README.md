@@ -1,4 +1,4 @@
-"Petshop-Management-System-using-java-GUI" in bullet points:
+"Petshop-Management-System-using-java-GUI" :
 
 Developed in Java with a graphical user interface (GUI).
 Designed specifically for managing operations within a pet shop.
